@@ -5,5 +5,5 @@ import (
 )
 
 func proxyHomeHandler(w http.ResponseWriter, r *http.Request) {
-	w.Write([]byte(`"Welcome to GO Module Proxy"`))
+	w.Write([]byte(`"Go Modules Proxy"`))
 }
