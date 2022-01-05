@@ -71,7 +71,7 @@ $ curl localhost:3000
 ... and you should see the standard Athens response:
 
 ```console
-"Welcome to The Athens Proxy"
+"Welcome to GO Module Proxy"
 ```
 
 When you're ready to stop Athens and all its dependencies, run this command:
